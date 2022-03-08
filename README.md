@@ -1,2 +1,2 @@
-# typescript-pracitce
+# react-typescript
 Created with CodeSandbox
